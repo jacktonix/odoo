@@ -1,2 +1,2 @@
 # odoo
-Odoo 
+Odoo CRM
